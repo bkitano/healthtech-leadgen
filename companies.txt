@@ -1,0 +1,1408 @@
+DataShare
+Austin, TX, USA; 
+Remote
+Embedded customer-facing business intelligence in your platform
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE AUG 29 2023
+
+Surface Labs
+San Francisco, CA, USA
+Intelligent Forms Designed to 10x Site Conversions
+S23
+B2B
+ANALYTICS
+LAUNCHED: FRI AUG 25 2023
+
+Vango AI
+Berkeley, CA, USA; 
+San Francisco, CA, USA
+Build, evaluate, and perfect stable diffusion workflows. 10x easier.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON AUG 14 2023
+
+Quack AI
+Paris, Île-de-France, France; 
+San Francisco, CA, USA
+AI companion for developer onboarding inside the IDE
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: FRI AUG 11 2023
+
+RecipeUI
+New York, NY, USA
+Open source Postman alternative for teams
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED AUG 09 2023
+
+baserun.ai
+San Francisco, CA, USA
+Testing platform for LLM apps.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE AUG 08 2023
+
+sizeless
+Berkeley, CA, USA
+Make ML models reproducible and safe.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI AUG 04 2023
+
+Deasie
+New York, NY, USA
+Data governance for language model applications
+S23
+B2B
+ANALYTICS
+LAUNCHED: FRI AUG 04 2023
+
+Silimate
+Mountain View, CA, USA; 
+San Francisco, CA, USA
+The co-pilot for chip designers
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU AUG 03 2023
+
+Tremor
+Zürich, ZH, Switzerland; 
+San Francisco, CA, USA; Athens, Greece
+Webflow for dashboards
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU AUG 03 2023
+
+Inari
+New York, NY, USA; 
+San Francisco, CA, USA
+An AI copilot for product development, operations, and analytics
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU AUG 03 2023
+
+Latentspace
+London, England, United Kingdom; 
+Remote
+Streamline work with the help of AI-Powered Assistants
+S23
+B2B
+ANALYTICS
+LAUNCHED: WED AUG 02 2023
+
+ten.devLimerick, County Limerick, Ireland; 
+San Francisco, CA, USA; Limerick, County Limerick, Ireland
+Helping software teams share knowledge effortlessly.
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: TUE AUG 01 2023
+
+DSensei
+Identify the root cause of KPI changes in minitues
+S23
+B2B
+ANALYTICS
+LAUNCHED: TUE AUG 01 2023
+
+Vizly
+San Francisco, CA, USA
+Unlocking AI-powered data analysis, privately on your own device
+S23
+B2B
+ANALYTICS
+LAUNCHED: TUE AUG 01 2023
+
+Egress
+San Francisco, CA, USA
+AI layer for company data
+S23
+B2B
+ANALYTICS
+LAUNCHED: TUE AUG 01 2023
+
+VectorShift
+Connecting AI workflows to end-users
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE AUG 01 2023
+
+Trench
+San Francisco, CA, USA
+Open source fraud prevention platform for marketplaces
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JUL 31 2023
+
+AutoEmber
+San Francisco, CA, USA
+A visual design tool like Figma, but it makes real websites
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JUL 31 2023
+
+OpenPipe
+San Francisco, CA, USA; Bellevue, WA, USA
+Turn expensive prompts into cheap fine-tuned models.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JUL 31 2023
+
+Axilla
+San Francisco, CA, USA
+End-to-end framework for building enterprise AI applications
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN JUL 30 2023
+
+CambioML
+San Jose, CA, USA
+RLHF finetuning and data curation in one unified interface.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN JUL 30 2023
+
+Strada
+San Francisco, CA, USA
+Developer-first platform for enterprise integrations
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JUL 28 2023
+
+Hegel AI
+San Francisco, CA, USA
+Open source developer tools for large language models
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: THU JUL 27 2023
+
+Upstream
+Paris, Île-de-France, France
+A messaging app for teams, built on top of email
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED JUL 26 2023
+
+Onward
+San Francisco, CA, USA
+Meeting Automation for Ambitious Teams
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED JUL 26 2023
+
+FiddleCube
+San Francisco, CA, USA
+Synthetic datasets for fine-tuning LLMs
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED JUL 26 2023
+
+Apoxy
+San Francisco, CA, USA
+The Proxy Platform
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE JUL 25 2023
+
+LangdockBerlin, Berlin, Germany; 
+San Francisco, CA, USA
+ChatGPT for Mid Market Companies
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: SAT JUL 22 2023
+
+Sidenote
+San Francisco, CA, USA; Stanford, CA, USA
+Meeting follow-up, automated
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: THU JUL 20 2023
+
+Tempo LabsToronto, ON, Canada
+AI design tool like figma which can edit any react codebase
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUL 20 2023
+
+Metoro
+San Francisco, CA, USA; 
+London, England, United Kingdom
+The AI-powered production debugger
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUL 20 2023
+
+Giga ML
+San Francisco, CA, USA
+Platform to train and deploy on premise LLM's
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUL 20 2023
+
+Shadeform
+San Francisco, CA, USA
+GPU Cloud With No Hardware - Solving for GPU Shortage
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED JUL 19 2023
+
+Metalware
+San Francisco, CA, USA
+Copilot for firmware engineers
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE JUL 18 2023
+
+Revamp
+San Francisco, CA, USA
+Smarter Customer Segmentation for eCommerce
+S23
+B2B
+ANALYTICS
+LAUNCHED: TUE JUL 18 2023
+
+WalletKit
+New York, NY, USA; Palo Alto, CA, USA; 
+Remote
+Developer platform for building web3 apps with simple HTTP APIs
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE JUL 18 2023
+
+ztool
+New York, NY, USA; 
+San Francisco, CA, USA
+Effortlessly enrich spreadsheets
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: TUE JUL 18 2023
+
+Xeol
+New York, NY, USA
+Software supply chains security platform
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: MON JUL 17 2023
+
+Subsets
+Copenhagen, Denmark; 
+San Francisco, CA, USA
+The AI retention co-pilot for subscription businesses.
+S23
+B2B
+ANALYTICS
+LAUNCHED: SUN JUL 16 2023
+
+Neum AI
+Seattle, WA, USA
+Embeddings optimization at scale
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JUL 14 2023
+
+Sweetspot
+Austin, TX, USA; 
+San Francisco, CA, USA
+AI-powered search engine for government contracts.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUL 13 2023
+
+Talc
+Seattle, WA, USA; 
+San Francisco, CA, USA
+LLM staging environments to help businesses launch AI product faster
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUL 13 2023
+
+Serra
+San Francisco, CA, USA
+Python-based DBT alternative
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUL 13 2023
+
+Cedana
+New York, NY, USA; 
+San Francisco, CA, USA; Washington, DC, USA; 
+Remote
+Save, move and resume compute jobs in real-time
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED JUL 12 2023
+
+Kino AI
+Kino automatically organizes footage to make video editing faster.
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED JUL 12 2023
+
+SID
+Zürich, ZH, Switzerland; 
+San Francisco, CA, USA
+Connect customer's data to AI apps in an afternoon
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE JUL 11 2023
+
+kapa.ai
+Copenhagen, Denmark; Frankfurt, HE, Germany
+ChatGPT for developer-facing products
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: MON JUL 10 2023
+
+Zelos Cloud
+The First Cloud Platform for Firmware Development and Testing
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JUL 07 2023
+
+HavenBerlin, Berlin, Germany; 
+San Francisco, CA, USA
+Run LLMs on Your Own Infrastructure
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED JUL 05 2023
+
+Cerelyze
+New York, NY, USA
+Cerelyze turns technical research papers into useable code
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED JUL 05 2023
+
+Cyclone
+New York, NY, USA; 
+San Francisco, CA, USA; Palo Alto, CA, USA
+Instant coding playground for any doc site, powered by GPT
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JUL 03 2023
+
+Continue
+San Francisco, CA, USA
+The open-source coding autopilot
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JUN 30 2023
+
+Watto AI
+San Francisco, CA, USA; 
+Seattle, WA, USA
+Help PMs by automatically generating documents from domain knowledge
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: THU JUN 29 2023
+
+CodeStory
+London, England, United Kingdom; 
+San Francisco, CA, USA; 
+Remote
+CodeStory is an AI powered mod of VSCode
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUN 29 2023
+
+Intelliga
+San Francisco, CA, USA
+The developer-first platform for AI phone calls
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN JUN 25 2023
+
+Wyvern AI
+San Francisco, CA, USA; 
+Remote
+Machine learning platform for marketplaces
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SAT JUN 24 2023
+
+PoozleBengaluru, KA, India; 
+San Francisco, CA, USA
+Open source Plaid for LLMs
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: SAT JUN 24 2023
+
+Happyrobot
+San Francisco, CA, USA; 
+San Francisco, CA, USA
+AI copilot to analyze satellite images with English queries
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUN 22 2023
+
+refineIstanbul, Istanbul, Turkey; 
+San Francisco, CA, USA; 
+Remote
+Open-source Retool for enterprise
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUN 22 2023
+
+EpsillaJersey City, NJ, USA; 
+Remote
+A 10x Faster Open Source Vector Database
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED JUN 21 2023
+
+ErgomakeSão Paulo, SP, Brazil; 
+Remote
+On-demand staging and development environments.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE JUN 20 2023
+
+Orbio EarthAmsterdam, NH, Netherlands; Berlin, Berlin, Germany; 
+Remote
+Tracking methane emissions with satellites
+S23
+B2B
+ANALYTICS
+LAUNCHED: SUN JUN 18 2023
+
+TiptapBerlin, Berlin, Germany
+Developer toolkit for building collaborative apps.
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN JUN 18 2023
+
+sudocode
+Mountain View, CA, USA; 
+Mountain View, CA, USA; Boston, MA, USA
+Code in plain english
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SAT JUN 17 2023
+
+PeerDB
+Fast, native ETL for Postgres 🐘 🚀
+S23
+B2B
+ANALYTICS
+LAUNCHED: WED JUN 14 2023
+
+MonitaurLas Vegas, NV, USA; 
+San Francisco, CA, USA; Las Vegas, NV, USA; 
+Remote
+Datadog for Web3
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE JUN 13 2023
+
+Structured
+New York, NY, USA; 
+San Francisco, CA, USA
+Helping developers analyze logs with AI using plain English
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JUN 12 2023
+
+Dioxus Labs
+San Francisco, CA, USA
+Web, Desktop, and Mobile apps with one codebase
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JUN 08 2023
+
+Letter AIChicago, IL, USA; 
+San Francisco, CA, USA; Chicago, IL, USA
+All the content reps need to close deals, built 10x faster with AI
+S23
+B2B
+PRODUCTIVITY
+LAUNCHED: TUE JUN 06 2023
+
+Cedalio
+San Francisco, CA, USA
+The easiest way to store auditable and traceable data
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JUN 02 2023
+
+Telophase
+New York, NY, USA; 
+San Francisco, CA, USA
+Helping enterprise software teams serve customers globally
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI MAY 19 2023
+
+Sweep
+San Francisco, CA, USA
+AI-powered junior developer for software teams
+S23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI MAY 19 2023
+
+Artie
+San Francisco, CA, USA
+Software that streams data from databases to warehouses in real-time
+S23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED MAY 17 2023
+
+Outset
+AI-powered user research
+S23
+B2B
+ANALYTICS
+LAUNCHED: FRI MAY 12 2023
+
+LinkGrep
+Remote; 
+San Francisco, CA, USA; 
+New York, NY, USA; Jacksonville, FL, USA
+AI browser copilot for teams
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: FRI MAR 31 2023
+
+Semantic Finance
+San Francisco, CA, USA
+Realtime AI-powered financial 
+news data
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED MAR 29 2023
+
+Squack
+San Francisco, CA, USA
+Natural language RPA tools for accountants
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON MAR 27 2023
+
+Lightski
+San Francisco, CA, USA
+Embeddable Document Uploads
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED MAR 15 2023
+
+Fastgen
+New York, NY, USA; Berlin, Berlin, Germany; 
+Remote
+Webflow for the Backend
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE MAR 14 2023
+
+SuperAPIChennai, TN, India; Bengaluru, KA, India
+Programmable API gateway that makes APIs cacheable
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SAT MAR 11 2023
+
+Rosettic
+Break down AI and cloud costs by feature and customer
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU MAR 09 2023
+
+Swishjam
+Remote; Los Angeles, CA, USA
+Open-source page speed tools to help you build incredible experiences
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED MAR 08 2023
+
+TecladaSunnyvale, CA, USA
+The modern terminal for modern developers.
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: MON MAR 06 2023
+
+Clueso
+San Francisco, CA, USA; Bengaluru, KA, India
+AI-powered customer activation platform for SaaS apps
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SAT MAR 04 2023
+
+Dream3D
+New York, NY, USA
+AI-powered 3D Design
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI MAR 03 2023
+
+CorgiAI
+Remote
+CorgiAI is payment fraud prevention software for ecommerce, travel…
+W23
+B2B
+ANALYTICS
+LAUNCHED: THU MAR 02 2023
+
+Cardinal
+Remote; 
+San Francisco, CA, USA; 
+Austin, TX, USA
+Enabling product teams to build measurable features.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED MAR 01 2023
+
+Vaero
+San Francisco, CA, USA
+Fivetran for log data
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED MAR 01 2023
+
+Inkeep
+New York, NY, USA; 
+San Francisco, CA, USA
+Neural search and ChatGPT for developer products
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED MAR 01 2023
+
+ShortLoop
+San Francisco, CA, USA; Bengaluru, KA, India; 
+Remote
+Automated API Platform for fast-moving teams
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON FEB 27 2023
+
+BuildJet
+Remote; Berlin, Berlin, Germany
+High-performance computing cloud
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON FEB 27 2023
+
+Resync
+New York, NY, USA; 
+Remote
+Close the gap between your startup's goals and results
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN FEB 26 2023
+
+Codeparrot
+San Francisco, CA, USA; Bengaluru, KA, India
+Continuous testing platform for APIs
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN FEB 26 2023
+
+Nebula
+San Francisco, CA, USA
+Code-level observability and debugging for large enterprises
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN FEB 26 2023
+
+Koala OpsTel Aviv-Yafo, Tel Aviv District, Israel
+A platform for developing microservices on Kubernetes
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN FEB 26 2023
+
+Psychic
+San Francisco, CA, USA; Toronto, ON, Canada; 
+Remote
+Data integration platform for LLMs
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI FEB 24 2023
+
+Pierre
+San Francisco, CA, USA; 
+New York, NY, USA
+Building a better github
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU FEB 23 2023
+
+Index
+San Francisco, CA, USA; Sydney, NSW, Australia
+Collaborative planning for high-growth technology companies
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED FEB 22 2023
+
+Texel.ai
+Remote; 
+New York, NY, USA; 
+Austin, TX, USA
+Run AI pipelines 10x faster
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED FEB 22 2023
+
+Muffin Data
+Modern analytics for CPG brands
+W23
+B2B
+ANALYTICS
+LAUNCHED: TUE FEB 21 2023
+
+Chart
+San Francisco, CA, USA; 
+New York, NY, USA
+Deploy fast ML infrastructure with one click
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE FEB 21 2023
+
+Serial
+San Francisco, CA, USA; 
+Remote
+Root cause manufacturing issues in seconds
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE FEB 21 2023
+
+Portalform
+We help developers pull data from popular APIs to build integrations
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN FEB 19 2023
+
+Onu
+New York, NY, USA; 
+Remote
+Turn scripts into internal tools in minutes without any frontend work
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI FEB 17 2023
+
+TableFlow
+San Francisco, CA, USA
+The open source CSV importer
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED FEB 15 2023
+
+OpenMeter
+Remote; 
+San Francisco, CA, USA; Budapest, Hungary
+Usage Metering for AI, Billing, Infrastructure, and IoT use-cases.
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: THU FEB 09 2023
+
+Type
+The AI-first document editor.
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED FEB 08 2023
+
+moonrepo
+Remote; Portland, OR, USA
+Open source build tool for monorepos and large codebases
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED FEB 08 2023
+
+LaunchFlow
+Remote
+Unlock Cloud Computing in your Code Editor
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED FEB 08 2023
+
+Helicone
+San Francisco, CA, USA
+Open-source observability platform for AI companies
+W23
+B2B
+ANALYTICS
+LAUNCHED: TUE FEB 07 2023
+
+Blocksfabrik
+Remote
+Auto-generate UI components from design guidelines
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE FEB 07 2023
+
+CodeComplete
+Remote
+AI-powered code completion for enterprise.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI FEB 03 2023
+
+CreatorML
+Remote; 
+New York, NY, USA
+ML-Powered Predictive Analytics for YouTube Creators
+W23
+B2B
+ANALYTICS
+LAUNCHED: THU FEB 02 2023
+
+highlight.io
+Remote; 
+San Francisco, CA, USA; 
+Seattle, WA, USA; Irvine, CA, USA
+The open source, fullstack monitoring platform: stop guessing why…
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU FEB 02 2023
+
+Resend
+Remote; 
+San Francisco, CA, USA
+Email API for developers
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE JAN 31 2023
+
+Wild Moose
+San Francisco, CA, USA; Tel Aviv-Yafo, Tel Aviv District, Israel
+Helping on-call devs tame production chaos with Generative AI
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JAN 30 2023
+
+Unstatiq
+Remote; 
+San Francisco, CA, USA
+Automatic data validation using AI
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN JAN 29 2023
+
+Fern
+Seattle, WA, USA; 
+San Francisco, CA, USA
+SDKs and documentation for your API
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN JAN 29 2023
+
+Noya Software
+Remote; 
+San Francisco, CA, USA; Walnut Creek, CA, USA
+Product design tool that lets everyone design like a designer
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JAN 27 2023
+
+Meru
+San Francisco, CA, USA
+Answer Every Question with Retrieval Augmented Generation.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JAN 27 2023
+
+BabylonAI
+San Francisco, CA, USA; 
+Zürich, ZH, Switzerland; 
+Remote
+Datadog for machine learning on edge devices
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: THU JAN 26 2023
+
+PoplarML
+San Francisco, CA, USA
+Deploy Machine Learning Models with One Command
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED JAN 25 2023
+
+Sherloq
+San Francisco, CA, USA; Tel Aviv-Yafo, Tel Aviv District, Israel
+Github for data teams
+W23
+B2B
+ANALYTICS
+LAUNCHED: WED JAN 25 2023
+
+Middleware
+AI-based full stack observability platform
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED JAN 25 2023
+
+Atri Labs
+Remote; 
+San Francisco, CA, USA; Bengaluru, KA, India; 
+New York, NY, USA
+Open-source web framework for Python developers
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE JAN 24 2023
+
+Arroyo
+Berkeley, CA, USA
+Snowflake for real-time data
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE JAN 24 2023
+
+Drift Bio
+Remote; 
+San Francisco, CA, USA
+The operating system for life sciences data
+W23
+B2B
+ANALYTICS
+LAUNCHED: TUE JAN 24 2023
+
+GradientJ
+New York, NY, USA; 
+Austin, TX, USA; Miami, FL, USA
+Platform to build large language model applications
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JAN 23 2023
+
+Reflex
+San Francisco, CA, USA
+(Previously Pynecone) Web apps in pure Python
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN JAN 22 2023
+
+ZeroDev
+New York, NY, USA; 
+Remote
+Account abstraction wallets as a service
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SUN JAN 22 2023
+
+MantysBengaluru, KA, India; 
+Remote
+ARR Tracking and Forecasting for SaaS companies
+W23
+B2B
+ANALYTICS
+LAUNCHED: SUN JAN 22 2023
+
+Metal
+New York, NY, USA
+Machine learning embeddings as a service
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: FRI JAN 20 2023
+
+Turntable
+New York, NY, USA; 
+Austin, TX, USA; 
+Remote
+AI-native operating system for analytics teams
+W23
+B2B
+ANALYTICS
+LAUNCHED: THU JAN 19 2023
+
+Keep
+San Francisco, CA, USA; Tel Aviv-Yafo, Tel Aviv District, Israel; 
+Remote
+Open-source alert management for software developers.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU JAN 19 2023
+
+Mirrorful
+Remote; 
+San Francisco, CA, USA
+The open-source design system framework
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JAN 16 2023
+
+LangfuseBerlin, Berlin, Germany; 
+San Francisco, CA, USA
+Open source observability & analytics for LLM apps
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JAN 16 2023
+
+Cakework
+Seattle, WA, USA
+API that adds cloud hosting to any developer platform
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: MON JAN 16 2023
+
+Outerbase
+Remote; 
+San Francisco, CA, USA; Pittsburgh, PA, USA
+The interface for your database
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: SUN JAN 15 2023
+
+Stack AI
+San Francisco, CA, USA; 
+Remote
+The platform to build LLM applications (i.e. ChatGPT ) in minutes.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JAN 13 2023
+
+Vellum
+Remote
+Developer platform for building great AI applications
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JAN 13 2023
+
+Baselit
+Remote
+AI-powered analytics
+W23
+B2B
+ANALYTICS
+LAUNCHED: WED JAN 11 2023
+
+Magicflow 𐂂Tel Aviv-Yafo, Tel Aviv District, Israel; 
+Remote
+Webflow for AI development
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE JAN 10 2023
+
+Berry
+Remote; 
+San Francisco, CA, USA; 
+Seattle, WA, USA
+A Chrome extension that turns any web app multiplayer, like Figma
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: TUE JAN 10 2023
+
+Planar
+New York, NY, USA
+Superhuman for code review
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JAN 09 2023
+
+Layup
+Remote; 
+San Francisco, CA, USA; 
+New York, NY, USA; Chicago, IL, USA
+AI that builds workflows across company apps
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: SAT JAN 07 2023
+
+MagnaPlay
+Remote; 
+San Francisco, CA, USA; São Paulo, SP, Brazil
+AI-powered game translation.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI JAN 06 2023
+
+Defog.aiSingapore, Singapore; 
+San Francisco, CA, USA
+Fine-tuned LLMs for enterprise data analysis
+W23
+B2B
+ANALYTICS
+LAUNCHED: WED JAN 04 2023
+
+Defer
+Paris, Île-de-France, France
+Zero infrastructure background processing platform.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON JAN 02 2023
+
+Frigade
+San Francisco, CA, USA
+Build better product onboarding, faster.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: TUE DEC 27 2022
+
+Rubber Ducky Labs
+Remote; 
+San Francisco, CA, USA
+Operational Analytics for Recommender Systems
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU DEC 15 2022
+
+keyval
+Remote
+Open-source codeless monitoring pipeline
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED DEC 14 2022
+
+HoneydewTel Aviv-Yafo, Tel Aviv District, Israel; 
+Remote
+The home for shared data logic
+W23
+B2B
+ANALYTICS
+LAUNCHED: SUN DEC 11 2022
+
+Credal.ai
+New York, NY, USA
+The safest way to use AI at the enterprise
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: FRI DEC 02 2022
+
+pyq
+San Francisco, CA, USA; 
+New York, NY, USA; 
+Seattle, WA, USA; 
+Remote
+Easy AI integrations into applications.
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: WED NOV 30 2022
+
+Nango
+Remote
+Open-source unified API for product integrations
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI NOV 25 2022
+
+SensorSurf
+San Francisco, CA, USA
+Snowflake for sensor data
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: WED NOV 23 2022
+
+IcePanelVancouver, BC, Canada
+Explain complex software systems to engineering and product teams
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON NOV 21 2022
+
+Anarchy
+San Francisco, CA, USA; 
+Zürich, ZH, Switzerland
+LLM infrastructure for conversational UI
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON NOV 21 2022
+
+Depot
+Remote; 
+London, England, United Kingdom; Montpellier, Occitanie, France
+Build Docker containers 20x faster
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: MON NOV 21 2022
+
+Doctor Droid
+San Francisco, CA, USA; Bengaluru, KA, India
+Your best friend in production.
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI NOV 18 2022
+
+Ariglad
+Remote; 
+San Francisco, CA, USA; Vancouver, BC, Canada; 
+Copenhagen, Denmark
+The Jira for internal teams
+W23
+B2B
+PRODUCTIVITY
+LAUNCHED: WED NOV 16 2022
+
+Magik
+Remote
+Production Testing and Monitoring for your LLM App
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI NOV 04 2022
+
+Rubbrband
+Evaluation for AI-generated images
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: FRI OCT 21 2022
+
+Versori
+Manchester, England, United Kingdom; 
+Remote
+Enterprise Integration & Workflow Automation
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: TUE OCT 18 2022
+
+Trigger.dev
+London, England, United Kingdom; 
+Remote
+The open source background jobs framework for Next.js
+W23
+B2B
+ENGINEERING, PRODUCT AND DESIGN
+LAUNCHED: THU OCT 13 2022
+
+Rollstack
+New York, NY, USA; 
+San Francisco, CA, USA; 
+Paris, Île-de-France, France; 
+Remote
+Automatically create and update slide decks and documents
+W23
+B2B
+ANALYTICS
+LAUNCHED: MON OCT 03 2022
+
+Ivy
+London, England, United Kingdom; Berlin, Berlin, Germany; 
+Remote
+Accelerate Your AI With One Line of Code
+W23
+B2B
+INFRASTRUCTURE
+LAUNCHED: SAT JUL 09 2022
